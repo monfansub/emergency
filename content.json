@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "Hệ thống hiện đang bị quá tải (nói thẳng ra là bị tấn công). Chúng tôi rất mong nhận được sự thông cảm từ bạn."
+  "maintenance": true,
+  "message": "Hệ thống đang bảo trì để năng cấp hệ thống. Mong bạn thông cảm và quay lại sau ít phút!"
 }
